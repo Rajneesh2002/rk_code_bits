@@ -42,6 +42,7 @@ int main() {
          cout<<i<<" ";
 	    cout<<endl;
     }
+    cout<<"Bye"<<endl;
 	}
 	return 0;
 }
